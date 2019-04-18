@@ -2,8 +2,10 @@ title: My Jekyll DXD Blog
 author: Daniel da Silva
 email: email@example.com
 description: > # this means to ignore newlines until "exclude"
-  Write an awesome description for your new site here. This could
-  for example be used for SEO purposes.
+  This is a demo site used for the class of
+  "Linguagens e Tecnologias Digitais" about Jekyll
+
+baseurl: /jekyll-dxd
 
 exclude:
   - Gemfile
